@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wiki",
+            "revenue": 1234
+        },
+        {
+            "id": 2,
+            "name": "Google",
+            "revenue": 1234
+        },
+        {
+            "id": 3,
+            "name": "Facebook",
+            "revenue": 1234
+        },
+        {
+            "id": 4,
+            "name": "Twitter",
+            "revenue": 1300
+        }
+    ]
+}
